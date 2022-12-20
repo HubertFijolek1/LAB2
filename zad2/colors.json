@@ -1,0 +1,39 @@
+{
+    "color": [
+        {
+            "color name": "cyan",
+            "Hex": "#0ff",
+            "RGB": "(0.0, 1.0, 1.0)"
+        },
+        {
+            "color name": "magenta",
+            "Hex": "#f0f",
+            "RGB": "(1.0, 0.0, 1.0)"
+        },
+        {
+            "color name": "yellow",
+            "Hex": "#ff0",
+            "RGB": "(1.0, 1.0, 0.0)"
+        },
+        {
+            "color name": "red",
+            "Hex": "#f00",
+            "RGB": "(1.0, 0.0, 0.0)"
+        },
+        {
+            "color name": "green",
+            "Hex": "#0f0",
+            "RGB": "(0.0, 1.0, 0.0)"
+        },
+        {
+            "color name": "blue",
+            "Hex": "#00f",
+            "RGB": "(0.0, 0.0, 1.0)"
+        },
+        {
+            "color name": "black",
+            "Hex": "#000",
+            "RGB": "(0.0, 0.0, 0.0)"
+        }
+    ]
+}
